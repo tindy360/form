@@ -1,0 +1,47 @@
+body {
+    background: lightblue;
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+      display: block;
+      text-align: center;
+    padding-top: 15px;
+    height: 35px;
+    width: auto;
+    margin: 0 auto 30px;
+}
+
+.sign-up {
+    background-color: white;
+    border: solid 1px white;
+    display: inline-block;
+    left: 300px;
+    width: 440px;
+    height: 500px;
+    text-align: center;
+    padding-top: 45px;
+    border-radius: 10px;
+}
+.sign-up form {}
+
+button {
+    height: 55px;
+    border: 2px;
+    padding: 15px;
+    background-color: green;
+}
+
+fieldset {
+  border: none;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+    margin: 20px auto;
+    font-weight: 600;
+    border: 0;
+    padding: 0;
+}
